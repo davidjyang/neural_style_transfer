@@ -2,10 +2,11 @@
 
 This is my attempt at following along with the [Neural-Style Algorithm](https://arxiv.org/abs/1508.06576) developed by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge. 
 I wanted to try my hand at this because it seemed like a great exercise to practice and demonstrate my understanding of working with neural networks, as well as to gain experience
-with more computer vision and pattern recognition techniques. There's some pretty complex (at least to me 😵‍💫) math in play here, and I'm still actively working towards understanding
-it - hopefully I'll be able to apply similar techniques in future projects 😎😎
+with more computer vision and pattern recognition techniques. There's some pretty complex (at least to me 😵‍💫) math in play here, and I'm still actively working towards understanding it - hopefully I'll be able to apply similar techniques in future projects 😎😎
 
-All computation was done with the help of Google Colab!
+This project was especially fun to work through, trying to understand why the model works in the way that it does, because I could literally apply these this style transfer model to any image. Obviously, I spent way too much time playing around with what my dog would look like in the style of Picasso. 	<sup> no copywrited images because i do not want to catch any troubles </sup>
+
+All computation was done with the help of Google Colab's free T4 GPUs.
 
 ## An Example of Style Transfer:
 
