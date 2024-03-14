@@ -4,7 +4,7 @@ This is my attempt at following along with the [Neural-Style Algorithm](https://
 I wanted to try my hand at this because it seemed like a great exercise to practice and demonstrate my understanding of working with neural networks, as well as to gain experience
 with more computer vision and pattern recognition techniques. There's some pretty complex (at least to me 😵‍💫) math in play here, and I'm still actively working towards understanding it - hopefully I'll be able to apply similar techniques in future projects 😎😎
 
-This project was especially fun to work through, trying to understand why the model works in the way that it does, because I could literally apply these this style transfer model to any image. Obviously, I spent way too much time playing around with what my dog would look like in the style of Picasso. 
+This project was especially fun to work through, trying to understand why the model works in the way that it does, because I could literally apply this style transfer model to any image. Obviously, I spent way too much time playing around with what my dog would look like in the style of Picasso. 
 
 All computation was done with the help of Google Colab's free T4 GPUs.
 
